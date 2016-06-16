@@ -1,3 +1,2 @@
 # simpleHTTPServer
-launch simpleHTTPServer
-point browser to localhost:8080/index.html
+Launch simpleHTTPServer then simply point browser to "localhost:8080/index.html".
